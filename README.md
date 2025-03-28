@@ -18,7 +18,6 @@ Select the brms_db database.
 
 Click on Import and upload brms (46).sql.
 
-Using MySQL Command Line:
 Members:
   JB Rey Locsin
   Arabela Grace Deza
